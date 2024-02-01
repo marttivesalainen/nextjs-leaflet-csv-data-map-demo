@@ -1,6 +1,6 @@
 "use client";
 
-import L, { LatLngExpression } from "leaflet";
+import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { useEffect, useRef, useState } from "react";
 import { useData } from "./useData";

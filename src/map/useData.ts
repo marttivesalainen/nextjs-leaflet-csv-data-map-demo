@@ -1,5 +1,4 @@
 import { LatLngExpression } from "leaflet";
-import dynamic from "next/dynamic";
 import { useEffect, useState } from "react";
 import { readString } from "react-papaparse";
 
